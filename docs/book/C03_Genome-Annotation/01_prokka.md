@@ -172,7 +172,9 @@ $ awk '!a[$1]++{print}' egd.tsv
 # 显示所有COG注释
 $ awk '/COG/' egd.tsv
 ```
+## 本人使用代码
+```bash
+```
 
 ## Reference
-
 [Prokka]: https://github.com/tseemann/prokka "Prokka"
